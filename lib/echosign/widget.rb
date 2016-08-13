@@ -167,8 +167,7 @@ module Echosign
           name,
           fileInfos, 
           signatureFlow, 
-          widget_completion_info,
-
+          widget_completion_info
         } 
       })
     end
